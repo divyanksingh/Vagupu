@@ -1,0 +1,7 @@
+<auth>
+<user username="admin" password="welcome123"/>
+<user username="admin1" password="welcome1"/>
+<user username="admin2" password="welcome2"/>
+</auth>
+
+
